@@ -17,5 +17,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
 </div>
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=Yizzii&countColor=%23263759"/>
+  <img src="https://api.visitorbadge.io/api/visitors?path=pylua-dot-code&countColor=%23263759"/>
 </div>
